@@ -58,7 +58,7 @@ tears 4.181298541459465
 >>> tares 00200
 ```
 0 -> gray  
-1 -> yello  
+1 -> yellow  
 2 -> green  
 
 Type exit to exit.
